@@ -8,6 +8,7 @@ Acceleratorkeys
 ACCEPTFILES
 ACCESSDENIED
 ACCESSTOKEN
+acfs
 AClient
 AColumn
 acrt
@@ -173,6 +174,7 @@ CContext
 CDeclaration
 CElems
 CENTERALIGN
+cer
 certlm
 certmgr
 cfp
@@ -197,6 +199,7 @@ CLIPBOARDUPDATE
 CLIPCHILDREN
 CLIPSIBLINGS
 closesocket
+clp
 CLSCTX
 clsids
 Clusion
@@ -273,6 +276,7 @@ CURSORINFO
 cursorpos
 customaction
 CUSTOMACTIONTEST
+CUSTOMFORMATPLACEHOLDER
 CVal
 cvd
 CVirtual
@@ -344,6 +348,7 @@ DEVMODE
 DEVMODEW
 devpal
 DIALOGEX
+digicert
 dimm
 DISABLEASACTIONKEY
 DISABLENOSCROLL
@@ -517,11 +522,13 @@ FRAMECHANGED
 frm
 Froml
 FROMTOUCH
+fsanitize
 fsmgmt
 FZE
 gacutil
 Gaeilge
 Gaidhlig
+gameid
 GC'ed
 GCLP
 gdi
@@ -629,6 +636,7 @@ HOTKEYF
 hotkeys
 hotlight
 hotspot
+Hostx
 HPAINTBUFFER
 HRAWINPUT
 HREDRAW
@@ -681,6 +689,7 @@ IGo
 iid
 Iindex
 Ijwhost
+ILD
 IMAGEHLP
 IMAGERESIZERCONTEXTMENU
 IMAGERESIZEREXT
@@ -711,6 +720,7 @@ INPUTSINK
 INPUTTYPE
 INSTALLDESKTOPSHORTCUT
 INSTALLDIR
+installdir
 INSTALLFOLDER
 INSTALLFOLDERTOBOOTSTRAPPERINSTALLFOLDER
 INSTALLFOLDERTOPREVIOUSINSTALLFOLDER
@@ -941,6 +951,7 @@ mpmc
 MRM
 MRT
 mru
+MSAL
 msc
 mscorlib
 msctls
@@ -1004,6 +1015,7 @@ netsh
 newcolor
 NEWDIALOGSTYLE
 NEWFILE
+NEWFILEHEADER
 newitem
 newpath
 newplus
@@ -1037,6 +1049,7 @@ NOINHERITLAYOUT
 NOINTERFACE
 NOINVERT
 NOLINKINFO
+nologo
 NOMCX
 NOMINMAX
 NOMIRRORBITMAP
@@ -1074,6 +1087,7 @@ NOTRACK
 NOTSRCCOPY
 NOTSRCERASE
 NOTXORPEN
+notwindows
 NOZORDER
 NPH
 npmjs
@@ -1199,6 +1213,7 @@ Podcasts
 POINTERID
 POINTERUPDATE
 Pokedex
+Pomodoro
 Popups
 POPUPWINDOW
 POSITIONITEM
@@ -1267,6 +1282,7 @@ pstm
 PStr
 pstream
 pstrm
+pswd
 PSYSTEM
 psz
 ptb
@@ -1297,6 +1313,7 @@ QUNS
 QXZ
 RAII
 RAlt
+Rappl
 randi
 Rasterization
 Rasterize
@@ -1393,6 +1410,7 @@ sacl
 safeprojectname
 SAMEKEYPREVIOUSLYMAPPED
 SAMESHORTCUTPREVIOUSLYMAPPED
+sancov
 SAVEFAILED
 scanled
 schedtasks
@@ -1411,6 +1429,7 @@ searchterm
 SEARCHUI
 SECONDARYDISPLAY
 secpol
+securestring
 SEEMASKINVOKEIDLIST
 SELCHANGE
 SENDCHANGE
@@ -1455,6 +1474,9 @@ SHELLDLL
 shellex
 SHELLEXECUTEINFO
 SHELLEXECUTEINFOW
+SHELLEXTENSION
+SHELLICONSIZE
+SHELLNEWVALUE
 SHFILEINFO
 SHFILEOPSTRUCT
 SHGDN
@@ -1462,6 +1484,7 @@ SHGDNF
 SHGFI
 SHGFIICON
 SHGFILARGEICON
+SHIL
 shinfo
 shlwapi
 shobjidl
@@ -1493,6 +1516,7 @@ SIDs
 siex
 sigdn
 SIGNINGSCENARIO
+signtool
 Signtool
 SINGLEKEY
 sipolicy
@@ -1559,6 +1583,7 @@ stdcpp
 stdcpplatest
 STDMETHODCALLTYPE
 STDMETHODIMP
+steamapps
 STGC
 STGM
 STGMEDIUM
@@ -1640,6 +1665,7 @@ telephon
 templatenamespace
 testprocess
 TEXCOORD
+TEXTBOXNEWLINE
 TEXTEXTRACTOR
 TEXTINCLUDE
 tfopen
@@ -1921,6 +1947,7 @@ WUX
 Wwanpp
 XAxis
 xclip
+xcopy
 XDocument
 XElement
 xfd
@@ -1959,3 +1986,11 @@ ZOOMITX
 ZXk
 ZXNs
 zzz
+ACIE
+AOklab
+BCIE
+BOklab
+culori
+Evercoder
+LCh
+CIELCh
